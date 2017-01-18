@@ -1,2 +1,2 @@
 # hello-world
-New to GitHub exercise
+New to GitHub exercise - im a noob.
